@@ -30,6 +30,7 @@ Hi, I'm Sandeep Singh, a Web Developer, Problem Solving Enthusiast and Open Sour
 
 
 
+![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepsingh2508&show_icons=true&hide_border=true)
 
 
 <!--

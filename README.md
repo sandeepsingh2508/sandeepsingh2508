@@ -1,11 +1,11 @@
-### Hey 👋🏽, I'm [Sandeep!](https://satyamkoshta340.github.io/my-cv/) 
+### Hey 👋🏽, I'm [Sandeep!]
 
 Hi, I'm Sandeep Singh, a Web Developer, Problem Solving Enthusiast and Open Source Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-SatyamKoshta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/satyamkoshta340)](https://www.linkedin.com/in/satyamkoshta340/)
-[![Twitter Badge](https://img.shields.io/badge/-@KoshtaSatyam-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/KoshtaSatyam)](https://twitter.com/KoshtaSatyam) 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:satyamkoshta340@gmail.com)](mailto:satyamkoshta340@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SandeepSingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sandeepsingh18/)](https://www.linkedin.com/in/sandeepsingh18/)
+[![Twitter Badge](https://img.shields.io/badge/-@SinghSandeep-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Sandeep09056310)](https://twitter.com/Sandeep09056310) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prasan.250899@gmail.com)](mailto:prasan.250899@gmail.com)
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=satyamkoshta340.satyamkoshta340)  <br> 
+![](https://visitor-badge.glitch.me/badge?page_id=sandeepsingh2508.sandeepsingh2508)  <br> 
 
 
 - Web Development - Software Developer
@@ -32,9 +32,8 @@ Hi, I'm Sandeep Singh, a Web Developer, Problem Solving Enthusiast and Open Sour
 
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamkoshta340&show_icons=true&hide_border=true)
 
 
 <!--
-**satyamkoshta340/satyamkoshta340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sandeeosingh2508/sandeepsingh2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
